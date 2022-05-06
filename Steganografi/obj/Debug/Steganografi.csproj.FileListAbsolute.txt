@@ -1,0 +1,16 @@
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\bin\Debug\Steganografi.exe.config
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\bin\Debug\Steganografi.exe.manifest
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\bin\Debug\Steganografi.application
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\bin\Debug\Steganografi.exe
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\bin\Debug\Steganografi.pdb
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\obj\Debug\Steganografi.Form1.resources
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\obj\Debug\Steganografi.Properties.Resources.resources
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\obj\Debug\Steganografi.csproj.GenerateResource.cache
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\obj\Debug\Steganografi.csproj.CoreCompileInputs.cache
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\obj\Debug\Steganografi.TrustInfo.xml
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\obj\Debug\Steganografi.exe.manifest
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\obj\Debug\Steganografi.application
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\obj\Debug\Steganografi.exe
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\obj\Debug\Steganografi.pdb
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\obj\Debug\Steganografi.csproj.AssemblyReference.cache
+C:\Users\Ozkan\source\repos\Steganografi-master\Steganografi\obj\Debug\Steganografi.csproj.SuggestedBindingRedirects.cache
